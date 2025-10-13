@@ -1,3 +1,5 @@
+"""Create a Python program to manage student grades using lists, arrays, tuples, and dictionaries.
+Implement functions to add students and grades, calculate averages, and display grades for students and subjects."""
 student = ["Saad","fasih","raed","ali"]
 Dictionary = {"Saad": 23, "fasih":34, "raed": 334}
 grades=[1,5,4,67,8,56,4]
