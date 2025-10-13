@@ -1,3 +1,4 @@
+"""Write a Python program using a printTemperature() function to manage temperature records with file handling.It should display all temperatures, add new ones, and show highest, lowest, and average values."""
 def printtemperature():
     print("Temperature Tracker Menu")
     print("1. Output All Temperatures")
